@@ -1,0 +1,19 @@
+{
+  "name": "basic",
+  "version": "1.0.0",
+  "description": "test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aithashi/BasicExmp.git"
+  },
+  "author": "Shishir aithal <shishir.aithal@lisec.com> (www.lisec.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aithashi/BasicExmp/issues"
+  },
+  "homepage": "https://github.com/aithashi/BasicExmp#readme"
+}
